@@ -5,7 +5,7 @@
 
 - 🔭 &nbsp; I’m currently learning AngularJS, Node, TypeScript and Java.
 - 🎓 &nbsp; Studying at school E.E.E.P. Flávio Gomes Granjeiro.
-- ✍️ &nbsp; Watching Series and stury math as hobbies/side hustles.
+- ✍️ &nbsp; Watching Series and study math as hobbies/side hustles.
 - ☕ &nbsp; I belive, a perfect cup of coffee can be the ultimate solution for any stress. 
 
 <h3>🛠 Tech Stack</h3>
