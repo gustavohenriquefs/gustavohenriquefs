@@ -1,5 +1,5 @@
 <h2> Hey there! I'm Gustavo Henrique. <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
+<img align="right" alt="GIF" src="https://github.com/devSouvik/devSouvik/blob/master/gif4.gif" width="500"/>
 
 <h3> 👨🏻‍💻 About Me </h3>
 
@@ -12,17 +12,20 @@
 
 - 💻 &nbsp; JavaScript | Java | Nodejs
 - 🌐 &nbsp; HTML | CSS | JavaScript | AngularJS
-- 🛢 &nbsp; MySQL | PostgressSQL | Xampp
+- 🛢 &nbsp; MySQL | PostgressSQL
 - 🔧 &nbsp; Visual Studio code | NetBeans
 
 <br>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gustavohenriquefs&show_icons=true&theme=radical)
+<a href="https://github.com/gustavohenriquefs/gustavohenriquefs">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=gustavohenriquefs&layout=compact&theme=tokyonight" alt="Quadrified's stats" />
+</a>
 
-</br>
+<br> <p>                                                                                </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gustavohenriquefs&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
+<a href="https://github.com/gustavohenriquefs/gustavohenriquefs">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=gustavohenriquefs&show_icons=true&include_all_commits=true&theme=tokyonight" alt="Quadrified's stats" /> 
+</a>
 <h3> 🤝🏻 Connect with Me </h3>
 
 <p align="center">
