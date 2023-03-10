@@ -10,7 +10,7 @@
 <hr>
 <h3>🛠 Tech Stack</h3>
 - 💻 &nbsp; JavaScript | Java | Nodejs<br>
-- 🌐 &nbsp; HTML | CSS | JavaScript | AngularJS<br>
+- 🌐 &nbsp; HTML | CSS | JavaScript | Angular<br>
 - 🛢 &nbsp; MySQL | PostgressSQL<br>
 - 🔧 &nbsp; Visual Studio code | NetBeans
 <br>
