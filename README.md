@@ -6,7 +6,7 @@ I began my journey in software development in 2019 during my technical course in
 
 I have hands-on experience developing solutions for web and mobile projects. 🛠 I am proficient across the stack, leveraging technologies such as:
 
-- 🌐 &nbsp; HTML | CSS | JavaScript | Angular | React <br>
+- 🌐 &nbsp; HTML | SCSS/CSS/Tailwind/Bootstrap | Typescript | Angular | React <br>
 - 💻 &nbsp; C++ | Rust | FastAPI | .NET Core<br>
 - 🛢 &nbsp; Oracle | PostgressSQL<br>
 - 🔧 &nbsp; Visual Studio code | AWS | Docker
