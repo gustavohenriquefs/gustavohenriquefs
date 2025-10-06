@@ -16,10 +16,12 @@ I have hands-on experience developing solutions for web and mobile projects. �
 <hr>
 <a href="https://github.com/gustavohenriquefs/gustavohenriquefs">
   <img align="left" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=gustavohenriquefs&show_icons=true&include_all_commits=true&theme=tokyonight" alt="Quadrified's stats" />
-<a href="https://github.com/gustavohenriquefs/gustavohenriquefs">
-  <img align="rigth" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=gustavohenriquefs&layout=compact&theme=tokyonight" alt="Quadrified's stats" />
 </a>
-  <br><br><br>
+&nbsp;&nbsp;&nbsp;
+<a href="https://github.com/gustavohenriquefs/gustavohenriquefs">
+  <img align="right" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=gustavohenriquefs&layout=compact&theme=tokyonight" alt="Quadrified's stats" />
+</a>
+<br clear="both"/>
 <hr>
 <h3> 🤝🏻 Connect with Me </h3>
 
